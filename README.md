@@ -22,7 +22,8 @@
 
 ### Results
 - Count of customer on basis of Gender
- ![Count of Customer on Gender ](https://github.com/user-attachments/assets/9a9932d0-91f2-4a41-91cd-8b022357f443)
+
+  ![Count of Customer on Gender ](https://github.com/user-attachments/assets/9a9932d0-91f2-4a41-91cd-8b022357f443)
 
 - Count of customer on the basis of Age Group
   ![Age Group](https://github.com/user-attachments/assets/ad91a20f-c6c8-4d1d-93cd-a4c266b404f0)
@@ -35,7 +36,8 @@
 
 
 - Count of customer on basis of Marital_Status
-   ![Marital Status](https://github.com/user-attachments/assets/ea1e9a05-bcbe-4515-acda-9d91ad3b427e)
+  
+    ![Marital Status](https://github.com/user-attachments/assets/ea1e9a05-bcbe-4515-acda-9d91ad3b427e)
 
 - Count of customer on basis of Occupation
   ![Occupation](https://github.com/user-attachments/assets/11a7a122-d021-45d1-a292-775ed7103156)
